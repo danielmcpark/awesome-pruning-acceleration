@@ -17,6 +17,9 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 ### 2018
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Clustering Convolutional Kernels to Compress Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Son_Clustering_Kernels_for_ECCV_2018_paper.pdf) | ECCV | [GitHub](https://github.com/thstkdgus35/clustering-kernels) |
+| [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908) | CVPR | - |
+| [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) | IJCAI | [GitHub](https://github.com/he-y/soft-filter-pruning) |
 
 ### 2017
 |   Title  | Issue | Release |
