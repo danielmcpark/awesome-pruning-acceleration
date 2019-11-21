@@ -26,6 +26,7 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
 | [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) | ICLR | - |
+| [Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/7551407) | ISCA | - |
 
 ### 2015
 |   Title  | Issue | Release |
