@@ -1,4 +1,4 @@
-# awesome-pruning
+# awesome-pruning-acceleration
 
 Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 
