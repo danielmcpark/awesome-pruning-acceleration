@@ -21,6 +21,8 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 ### 2017
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168) | ICCV | [GitHub](https://github.com/yihui-he/channel-pruning) |
+| [Learning Efficient Convolutional Networks Through Network Slimming](https://arxiv.org/abs/1708.06519) | ICCV | [GitHub](https://github.com/liuzhuang13/slimming) |
 | [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](https://ieeexplore.ieee.org/document/8192500) | ISCA | [GitHub](https://github.com/jiecaoyu/scalpel-1) |
 
 ### 2016
