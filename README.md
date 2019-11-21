@@ -21,6 +21,7 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 ### 2017
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](https://ieeexplore.ieee.org/document/8192500) | ISCA | [GitHub](https://github.com/jiecaoyu/scalpel-1) |
 
 ### 2016
 |   Title  | Issue | Release |
