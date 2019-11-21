@@ -13,6 +13,8 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 ### 2019
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) | ICCV | [GitHub](https://github.com/liuzechun/MetaPruning) |
+| [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR | [GitHub](https://github.com/he-y/filter-pruning-geometric-median) |
 
 ### 2018
 |   Title  | Issue | Release |
