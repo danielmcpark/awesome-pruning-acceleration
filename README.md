@@ -25,7 +25,7 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 ### 2016
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
-| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding) | ICLR | - |
+| [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) | ICLR | - |
 
 ### 2015
 |   Title  | Issue | Release |
