@@ -21,6 +21,8 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 ### 2017
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | ICLR | [GitHub](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning) |
+| [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) | ICLR | [GitHub](https://github.com/Tencent/PocketFlow#channel-pruning) |
 | [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) | CVPR | - |
 | [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_ThiNet_A_Filter_ICCV_2017_paper.pdf) | ICCV | [GitHub](https://github.com/Roll920/ThiNet) |
 | [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168) | ICCV | [GitHub](https://github.com/yihui-he/channel-pruning) |
