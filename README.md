@@ -1,4 +1,4 @@
-# awesome-pruning-acceleration
+# awesome-pruning-acceleration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 
