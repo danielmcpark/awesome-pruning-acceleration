@@ -15,6 +15,7 @@ Referred to [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 | :--------| :---: | :-----: |
 | [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) | ICCV | [GitHub](https://github.com/liuzechun/MetaPruning) |
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR | [GitHub](https://github.com/he-y/filter-pruning-geometric-median) |
+| [Network Pruning via Transformable Architecture Search](https://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | NIPS | [Github](https://github.com/D-X-Y/NAS-Projects) |
 
 ### 2018
 |   Title  | Issue | Release |
