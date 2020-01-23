@@ -1,5 +1,5 @@
 # awesome-pruning-acceleration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Hello visitors, I'm interested in architectural network reduction such as pruning, architectural search or decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page is a historical summary for an extension of my working, knowledge distillation, and make up mainly on training improvements, not on a application-oriented. If you have a quenstion for my working or any discussions with me, freely e-mail me (mincheol.park@kist.re.kr), Thanks !
+Hello visitors, I'm interested in architectural network reduction such as pruning, architectural search or decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page is a historical summary for an extension of my working, pruning. If you have a quenstion for my working or any discussions with me, freely e-mail me (mincheol.park@kist.re.kr), Thanks !
 
 ## History
 
