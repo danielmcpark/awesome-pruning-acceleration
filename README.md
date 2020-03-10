@@ -15,9 +15,9 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 | [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) | ICCV | [GitHub](https://github.com/liuzechun/MetaPruning) |
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) | CVPR | [GitHub](https://github.com/he-y/filter-pruning-geometric-median) |
 | [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning (GAL)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_Towards_Optimal_Structured_CNN_Pruning_via_Generative_Adversarial_Learning_CVPR_2019_paper.pdf) | CVPR | [GitHub](https://github.com/ShaohuiLin/GAL) |
-| [Network Pruning via Transformable Architecture Search](https://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | NIPS | [Github](https://github.com/D-X-Y/NAS-Projects) |
-| [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://papers.nips.cc/paper/8486-gate-decorator-global-filter-pruning-method-for-accelerating-deep-convolutional-neural-networks) | NIPS | [Github](https://github.com/youzhonghui/gate-decorator-pruning) |
-| [Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://papers.nips.cc/paper/8867-global-sparse-momentum-sgd-for-pruning-very-deep-neural-networks.pdf) | NIPS | [Github](https://github.com/DingXiaoH/GSM-SGD) |
+| [Network Pruning via Transformable Architecture Search](https://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | NIPS | [GitHub](https://github.com/D-X-Y/NAS-Projects) |
+| [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://papers.nips.cc/paper/8486-gate-decorator-global-filter-pruning-method-for-accelerating-deep-convolutional-neural-networks) | NIPS | [GitHub](https://github.com/youzhonghui/gate-decorator-pruning) |
+| [Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://papers.nips.cc/paper/8867-global-sparse-momentum-sgd-for-pruning-very-deep-neural-networks.pdf) | NIPS | [GitHub](https://github.com/DingXiaoH/GSM-SGD) |
 | [Integral Pruning on Activations and Weights for Efficient Neural Networks](https://openreview.net/forum?id=HyevnsCqtQ) | ICLR | - |
 | [SNIP: Single-Shot Network Pruning Based on Connection Sensitivity](https://openreview.net/pdf?id=B1VZqjAcYX) | ICLR | - |
 
@@ -28,6 +28,7 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 | [Clustering Convolutional Kernels to Compress Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Son_Clustering_Kernels_for_ECCV_2018_paper.pdf) | ECCV | [GitHub](https://github.com/thstkdgus35/clustering-kernels) |
 | [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908) | CVPR | - |
 | [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) | IJCAI | [GitHub](https://github.com/he-y/soft-filter-pruning) |
+| [Accelerating convolutional networks via global & dynamic filter pruning](https://www.ijcai.org/Proceedings/2018/0336.pdf) | IJCAI | - |
 
 ### 2017
 |   Title  | Issue | Release |
