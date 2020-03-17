@@ -38,7 +38,7 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 | [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) | CVPR | - |
 | [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_ThiNet_A_Filter_ICCV_2017_paper.pdf) | ICCV | [GitHub](https://github.com/Roll920/ThiNet) |
 | [Channel pruning for accelerating very deep neural networks](https://arxiv.org/abs/1707.06168) | ICCV | [GitHub](https://github.com/yihui-he/channel-pruning) |
-| [Learning Efficient Convolutional Networks Through Network Slimming](https://arxiv.org/abs/1708.06519) | ICCV | [GitHub](https://github.com/liuzhuang13/slimming) |
+| [Learning Efficient Convolutional Networks Through Network Slimming](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.pdf) | ICCV | [GitHub](https://github.com/liuzhuang13/slimming) |
 | [Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism](https://ieeexplore.ieee.org/document/8192500) | ISCA | [GitHub](https://github.com/jiecaoyu/scalpel-1) |
 
 ### 2016
