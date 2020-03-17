@@ -27,7 +27,7 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 | [Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://arxiv.org/abs/1802.00124) | ICLR | [GitHub](https://github.com/jack-willturner/batchnorm-pruning) |
 | [Clustering Convolutional Kernels to Compress Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Son_Clustering_Kernels_for_ECCV_2018_paper.pdf) | ECCV | [GitHub](https://github.com/thstkdgus35/clustering-kernels) |
 | [NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/abs/1711.05908) | CVPR | - |
-| [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) | IJCAI | [GitHub](https://www.ijcai.org/Proceedings/2018/0309.pdf) |
+| [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://www.ijcai.org/Proceedings/2018/0309.pdf) | IJCAI | [GitHub](https://github.com/he-y/soft-filter-pruning) |
 | [Accelerating convolutional networks via global & dynamic filter pruning](https://www.ijcai.org/Proceedings/2018/0336.pdf) | IJCAI | - |
 
 ### 2017
