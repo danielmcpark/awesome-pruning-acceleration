@@ -1,5 +1,5 @@
 # awesome-pruning-acceleration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Hello visitors, I'm interested in deep neural network reduction, such as pruning, architectural search, decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page put in order to summarize extension of my works, pruning.
+Hello visitors, I'm interested in deep neural network reduction, such as pruning, architectural search, decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page can belong to several summary in my works, namely, pruning.
 
 ## History
 
