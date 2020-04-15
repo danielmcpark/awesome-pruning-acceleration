@@ -3,11 +3,17 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 
 ## History
 
+- [2020 years](#2020)
 - [2019 years](#2019)
 - [2018 years](#2018)
 - [2017 years](#2017)
 - [2016 years](#2016)
 - [2015 years](#2015)
+
+### 2020
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
+| [Provable Filter Pruning for Efficient Neural Networks](https://openreview.net/pdf?id=BJxkOlSYDH) | ICLR | [GitHub](https://github.com/lucaslie/provable_pruning) |
 
 ### 2019
 |   Title  | Issue | Release |
