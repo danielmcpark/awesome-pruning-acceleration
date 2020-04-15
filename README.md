@@ -14,6 +14,10 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
 | [Provable Filter Pruning for Efficient Neural Networks](https://openreview.net/pdf?id=BJxkOlSYDH) | ICLR | [GitHub](https://github.com/lucaslie/provable_pruning) |
+| [Data-Independent Neural Pruning via Coresets](https://openreview.net/pdf?id=H1gmHaEKwB) | ICLR | - |
+| [Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://openreview.net/pdf?id=ryl3ygHYDB) | ICLR | [GitHub](https://github.com/alinlab/lookahead_pruning) |
+| [Dynamic Model Pruning with Feedback](https://openreview.net/pdf?id=SJem8lSFwB) | ICLR | - |
+| [One-shot Pruning of Recurrent Neural Neworks by Jacobian Spectrum Evaluation](https://openreview.net/pdf?id=r1e9GCNKvH) | ICLR | - |
 
 ### 2019
 |   Title  | Issue | Release |
