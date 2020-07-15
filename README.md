@@ -13,6 +13,11 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-time Execution on Mobile Devices](https://arxiv.org/pdf/1909.05073.pdf) | AAAI | - |
+| [Dynamic Network Pruning with Interpretable Layerwise Channel Selection]() | AAAI | - |
+| [Reborn Filters: Pruning Convolutional Neural Networks with Limited Data](https://aaai.org/Papers/AAAI/2020GB/AAAI-TangY.1279.pdf) | AAAI | - |
+| [Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/pdf/2003.06757.pdf) | AAAI | - |
+| [Pruning from Scratch](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangY.403.pdf) | AAAI | - |
 | [DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf) | ICML | [GitHub](https://github.com/tanchongmin/DropNet) |
 | [Operation-Aware Soft Channel Pruning using Differentiable Masks](https://proceedings.icml.cc/static/paper_files/icml/2020/1485-Paper.pdf) | ICML | - |
 | [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.pdf) | CVPR | [GitHub](https://github.com/ofsoundof/group_sparsity)|
