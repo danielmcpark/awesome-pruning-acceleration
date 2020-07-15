@@ -13,6 +13,10 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.pdf) | CVPR | [GitHub](https://github.com/ofsoundof/group_sparsity)|
+| [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy]() | CVPR | - |
+| [Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration]() | CVPR | - |
+| [Structured Compression by Weight Encryption for Unstructured Pruning and Quantization]() | CVPR | - |
 | [Multi-Dimensional Pruning: A Unified Framework for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf) | CVPR | - |
 | [DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_DMCP_Differentiable_Markov_Channel_Pruning_for_Neural_Networks_CVPR_2020_paper.pdf) | CVPR | - |
 | [HRank: Filter Pruning using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) | CVPR | [GitHub](https://github.com/lmbxmu/HRank) |
