@@ -13,6 +13,7 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search](https://arxiv.org/abs/2008.05314) | ECCV | [GitHub](https://github.com/AberHu/TF-NAS) |
 | [Differentiable Joint Pruning and Quantization for Hardware Efficiency](https://arxiv.org/pdf/2007.10463.pdf) | ECCV | - |
 | [DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search](https://arxiv.org/pdf/2003.12563.pdf) | ECCV | - |
 | [Accelerating CNN Training by Pruning Activation Gradients](https://arxiv.org/pdf/1908.00173.pdf) | ECCV | - |
