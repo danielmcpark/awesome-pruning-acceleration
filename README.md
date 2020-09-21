@@ -13,6 +13,7 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning](https://arxiv.org/abs/2007.02491) | ECCV | [GitHub](https://github.com/anonymous47823493/EagleEye) |
 | [PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-time Execution on Mobile Devices](https://arxiv.org/pdf/1909.05073.pdf) | AAAI | - |
 | [Dynamic Network Pruning with Interpretable Layerwise Channel Selection]() | AAAI | - |
 | [Reborn Filters: Pruning Convolutional Neural Networks with Limited Data](https://aaai.org/Papers/AAAI/2020GB/AAAI-TangY.1279.pdf) | AAAI | - |
