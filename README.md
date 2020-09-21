@@ -13,6 +13,10 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search](https://arxiv.org/pdf/2003.12563.pdf) | ECCV | - |
+| [Accelerating CNN Training by Pruning Activation Gradients](https://arxiv.org/pdf/1908.00173.pdf) | ECCV | - |
+| [DHP: Differentiable Meta Pruning via HyperNetworks](https://arxiv.org/pdf/2003.13683.pdf) | ECCV | [GitHub](https://github.com/ofsoundof/dhp) |
+| [DSA: More Efficient Budgeted Pruning via Differentiable Sparsity Allocation](https://arxiv.org/pdf/2004.02164.pdf) | ECCV | [GitHub](https://github.com/walkerning/differentiable-sparsity-allocation) |
 | [EagleEye: Fast Sub-net Evaluation for Efficient Neural Network Pruning](https://arxiv.org/abs/2007.02491) | ECCV | [GitHub](https://github.com/anonymous47823493/EagleEye) |
 | [PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-time Execution on Mobile Devices](https://arxiv.org/pdf/1909.05073.pdf) | AAAI | - |
 | [Dynamic Network Pruning with Interpretable Layerwise Channel Selection]() | AAAI | - |
