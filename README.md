@@ -13,6 +13,7 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html) | NeurIPS | [GitHub](https://github.com/ganguli-lab/Synaptic-Flow) |
 | [Neuron Merging: Compensating for Pruned Neurons](https://papers.nips.cc/paper/2020/file/0678ca2eae02d542cc931e81b74de122-Paper.pdf) | NeurIPS | [GitHub](https://github.com/danielmcpark/neuron-merging) |
 | [Filter Pruning and Re-Initialization via Latent Space Clustering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | IEEE Access | - |
 | [TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search](https://arxiv.org/abs/2008.05314) | ECCV | [GitHub](https://github.com/AberHu/TF-NAS) |
