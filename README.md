@@ -13,6 +13,16 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [The Generalization-Stability Tradeoff In Neural Network Pruning](https://papers.nips.cc/paper/2020/file/ef2ee09ea9551de88bc11fd7eeea93b0-Paper.pdf) | NeurIPS | [GitHub](https://github.com/bbartoldson/GeneralizationStabilityTradeoff) |
+| [Position-based Scaled Gradient for Model Quantization and Pruning](https://papers.nips.cc/paper/2020/file/eb1e78328c46506b46a4ac4a1e378b91-Paper.pdf) | NeurIPS | [GitHub](https://github.com/Jangho-Kim/PSG-pytorch) |
+| [Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://papers.nips.cc/paper/2020/file/eae27d77ca20db309e056e3d2dcd7d69-Paper.pdf) | NeurIPS | [GitHub](https://github.com/JingtongSu/sanity-checking-pruning) |
+| [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://papers.nips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf) | NeurIPS | [GitHub](https://github.com/huggingface/block_movement_pruning) |
+| [HYDRA: Pruning Adversarially Robust Neural Networks](https://papers.nips.cc/paper/2020/file/e3a72c791a69f87b05ea7742e04430ed-Paper.pdf) | NeurIPS | [GitHub](https://github.com/inspire-group/hydra) |
+| [Pruning Filter in Filter](https://papers.nips.cc/paper/2020/file/ccb1d45fb76f7c5a0bf619f979c6cf36-Paper.pdf) | NeurIPS | [GitHub](https://github.com/fxmeng/Pruning-Filter-in-Filter) |
+| [Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning](https://papers.nips.cc/paper/2020/file/a914ecef9c12ffdb9bede64bb703d877-Paper.pdf) | NeurIPS | [GitHub](https://github.com/jianda-chen/static_dynamic_rl_pruning) |
+| [Directional Pruning of Deep Neural Networks](https://papers.nips.cc/paper/2020/file/a09e75c5c86a7bf6582d2b4d75aad615-Paper.pdf) | NeurIPS | [GitHub](https://github.com/donlan2710/gRDA-Optimizer/tree/master/directional_pruning) |
+| [SCOP: Scientific Control for Reliable Neural Network Pruning](https://papers.nips.cc/paper/2020/file/7bcdf75ad237b8e02e301f4091fb6bc8-Paper.pdf) | NeurIPS | - |
+| [Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/file/703957b6dd9e3a7980e040bee50ded65-Paper.pdf) | NeurIPS | [GitHub](https://github.com/polarizationpruning/PolarizationPruning) |
 | [Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html) | NeurIPS | [GitHub](https://github.com/ganguli-lab/Synaptic-Flow) |
 | [Neuron Merging: Compensating for Pruned Neurons](https://papers.nips.cc/paper/2020/file/0678ca2eae02d542cc931e81b74de122-Paper.pdf) | NeurIPS | [GitHub](https://github.com/danielmcpark/neuron-merging) |
 | [Filter Pruning and Re-Initialization via Latent Space Clustering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | IEEE Access | - |
