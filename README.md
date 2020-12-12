@@ -63,6 +63,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 | [Network Pruning via Transformable Architecture Search](https://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | NeurIPS | [GitHub](https://github.com/D-X-Y/NAS-Projects) |
 | [Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://papers.nips.cc/paper/8486-gate-decorator-global-filter-pruning-method-for-accelerating-deep-convolutional-neural-networks) | NeurIPS | [GitHub](https://github.com/youzhonghui/gate-decorator-pruning) |
 | [Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://papers.nips.cc/paper/8867-global-sparse-momentum-sgd-for-pruning-very-deep-neural-networks.pdf) | NeurIPS | [GitHub](https://github.com/DingXiaoH/GSM-SGD) |
+| [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/pdf?id=rJl-b3RcF7) | ICLR | - |
 | [Integral Pruning on Activations and Weights for Efficient Neural Networks](https://openreview.net/forum?id=HyevnsCqtQ) | ICLR | - |
 | [SNIP: Single-Shot Network Pruning Based on Connection Sensitivity](https://openreview.net/pdf?id=B1VZqjAcYX) | ICLR | - |
 
