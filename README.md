@@ -48,6 +48,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 | [DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_DMCP_Differentiable_Markov_Channel_Pruning_for_Neural_Networks_CVPR_2020_paper.pdf) | CVPR | - |
 | [HRank: Filter Pruning using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) | CVPR | [GitHub](https://github.com/lmbxmu/HRank) |
 | [Neural Network Pruning with Residual-Connections and Limited-Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Neural_Network_Pruning_With_Residual-Connections_and_Limited-Data_CVPR_2020_paper.pdf) | CVPR | - |
+| [Picking Winning Tickets Before Training by Preserving Gradient Flow](https://openreview.net/forum?id=SkgsACVKPH) | ICLR | [GitHub](https://github.com/alecwangcq/GraSP) |
 | [Provable Filter Pruning for Efficient Neural Networks](https://openreview.net/pdf?id=BJxkOlSYDH) | ICLR | [GitHub](https://github.com/lucaslie/provable_pruning) |
 | [Data-Independent Neural Pruning via Coresets](https://openreview.net/pdf?id=H1gmHaEKwB) | ICLR | - |
 | [Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://openreview.net/pdf?id=ryl3ygHYDB) | ICLR | [GitHub](https://github.com/alinlab/lookahead_pruning) |
