@@ -3,12 +3,17 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 
 ## History
 
+- [2021 years](#2021)
 - [2020 years](#2020)
 - [2019 years](#2019)
 - [2018 years](#2018)
 - [2017 years](#2017)
 - [2016 years](#2016)
 - [2015 years](#2015)
+
+### 2021
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
 
 ### 2020
 |   Title  | Issue | Release |
