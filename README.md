@@ -19,6 +19,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [What is the State of Neural Network Pruning](https://proceedings.mlsys.org/paper/2020/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf) | MLSys | [GitHub](https://github.com/jjgo/shrinkbench) |
 | [The Generalization-Stability Tradeoff In Neural Network Pruning](https://papers.nips.cc/paper/2020/file/ef2ee09ea9551de88bc11fd7eeea93b0-Paper.pdf) | NeurIPS | [GitHub](https://github.com/bbartoldson/GeneralizationStabilityTradeoff) |
 | [Position-based Scaled Gradient for Model Quantization and Pruning](https://papers.nips.cc/paper/2020/file/eb1e78328c46506b46a4ac4a1e378b91-Paper.pdf) | NeurIPS | [GitHub](https://github.com/Jangho-Kim/PSG-pytorch) |
 | [Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://papers.nips.cc/paper/2020/file/eae27d77ca20db309e056e3d2dcd7d69-Paper.pdf) | NeurIPS | [GitHub](https://github.com/JingtongSu/sanity-checking-pruning) |
