@@ -14,6 +14,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2021
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Robust Pruning at Initialization](https://arxiv.org/pdf/2002.08797.pdf) | ICLR | - |
 
 ### 2020
 |   Title  | Issue | Release |
