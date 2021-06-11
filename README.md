@@ -60,7 +60,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 | [Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://openreview.net/pdf?id=ryl3ygHYDB) | ICLR | [GitHub](https://github.com/alinlab/lookahead_pruning) |
 | [Dynamic Model Pruning with Feedback](https://openreview.net/pdf?id=SJem8lSFwB) | ICLR | - |
 | [One-shot Pruning of Recurrent Neural Neworks by Jacobian Spectrum Evaluation](https://openreview.net/pdf?id=r1e9GCNKvH) | ICLR | - |
-| [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://openreview.net/pdf?id=HJeTo2VFwH) | ICLR | |
+| [A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://openreview.net/pdf?id=HJeTo2VFwH) | ICLR | [GitHub](https://github.com/namhoonlee/spp-public)|
 
 ### 2019
 |   Title  | Issue | Release |
