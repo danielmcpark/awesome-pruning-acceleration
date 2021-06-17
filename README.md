@@ -46,7 +46,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 | [Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/pdf/2003.06757.pdf) | AAAI | - |
 | [Pruning from Scratch](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangY.403.pdf) | AAAI | - |
 | [DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf) | ICML | [GitHub](https://github.com/tanchongmin/DropNet) |
-| [Operation-Aware Soft Channel Pruning using Differentiable Masks](https://proceedings.icml.cc/static/paper_files/icml/2020/1485-Paper.pdf) | ICML | - |
+| [Operation-Aware Soft Channel Pruning using Differentiable Masks](http://proceedings.mlr.press/v119/kang20a.html) | ICML | - |
 | [Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.pdf) | CVPR | [GitHub](https://github.com/ofsoundof/group_sparsity)|
 | [APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_APQ_Joint_Search_for_Network_Architecture_Pruning_and_Quantization_Policy_CVPR_2020_paper.pdf) | CVPR | - |
 | [Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Learning_Filter_Pruning_Criteria_for_Deep_Convolutional_Neural_Networks_Acceleration_CVPR_2020_paper.pdf) | CVPR | - |
