@@ -67,6 +67,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
 | [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) | ICCV | [GitHub](https://github.com/liuzechun/MetaPruning) |
+| [Variational Convolutional Neural Network Pruning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.pdf) | CVPR | - |
 | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Filter_Pruning_via_Geometric_Median_for_Deep_Convolutional_Neural_Networks_CVPR_2019_paper.pdf) | CVPR | [GitHub](https://github.com/he-y/filter-pruning-geometric-median) |
 | [Towards Optimal Structured CNN Pruning via Generative Adversarial Learning (GAL)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lin_Towards_Optimal_Structured_CNN_Pruning_via_Generative_Adversarial_Learning_CVPR_2019_paper.pdf) | CVPR | [GitHub](https://github.com/ShaohuiLin/GAL) |
 | [Network Pruning via Transformable Architecture Search](https://papers.nips.cc/paper/8364-network-pruning-via-transformable-architecture-search) | NeurIPS | [GitHub](https://github.com/D-X-Y/NAS-Projects) |
