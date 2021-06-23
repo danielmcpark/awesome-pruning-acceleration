@@ -14,6 +14,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2021
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Dynamic Slimmable Network](https://arxiv.org/abs/2103.13258) | CVPR | [GitHub](https://github.com/changlin31/DS-Net) |
 | [Robust Pruning at Initialization](https://arxiv.org/pdf/2002.08797.pdf) | ICLR | - |
 
 ### 2020
