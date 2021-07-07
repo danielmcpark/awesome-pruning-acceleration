@@ -14,6 +14,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2021
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Towards_Efficient_Tensor_Decomposition-Based_DNN_Model_Compression_With_Optimization_Framework_CVPR_2021_paper.pdf) | CVPR | - |
 | [Dynamic Slimmable Network](https://arxiv.org/abs/2103.13258) | CVPR | [GitHub](https://github.com/changlin31/DS-Net) |
 | [Robust Pruning at Initialization](https://arxiv.org/pdf/2002.08797.pdf) | ICLR | - |
 
